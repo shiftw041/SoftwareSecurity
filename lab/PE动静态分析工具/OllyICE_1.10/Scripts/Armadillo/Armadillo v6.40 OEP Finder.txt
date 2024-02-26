@@ -1,0 +1,7 @@
+//by Mr. eXoDia 2011
+
+bc
+bphwc
+
+msg "Armadillo v6.40 OEP Finder by Mr. eXoDia"
+

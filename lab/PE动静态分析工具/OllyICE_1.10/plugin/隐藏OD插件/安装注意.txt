@@ -1,0 +1,6 @@
+若要启用隐藏功能，请将StrongOD.dll或SharpOD x64.dll复制到plugin目录下。
+
+
+1)在Windows32平台上调试32位程序，请用StrongOD.dll插件隐藏OD;
+
+2)在Windows64平台上调试32位程序，请用SharpOD x64.dll插件隐藏OD。（因为StrongOD.dll在在64位系统加载不了驱动）
